@@ -20,5 +20,6 @@ public class Main {
 
         System.out.println(hp.equals(it));
         System.out.println(author1.equals(author2));
+        //
     }
 }
